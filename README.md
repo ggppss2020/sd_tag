@@ -1,5 +1,10 @@
-# maple-from-fall-and-flower
-【AI绘画】【webui插件】
-bllibili视频说明：账号年年飞
-https://www.bilibili.com/video/BV1rK411X7bM/
-https://www.bilibili.com/video/BV16D4y1a7od/
+# 【AI绘画】sd_tag_edit
+【stable-diffusion-webui插件】
+
+通过选择标签的形式来创建绘画
+
+即使你英文不怎样
+
+并且对stable-diffusion-webui标签应用也不是很熟悉
+
+都可以轻松的使用该插件来完成绘画
