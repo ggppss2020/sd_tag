@@ -1,4 +1,4 @@
-# 【AI绘画】sd_tag_edit
+# 【AI绘画】Sd_Tag_edit
 【stable-diffusion-webui插件】
 
 通过选择标签的形式来创建绘画
