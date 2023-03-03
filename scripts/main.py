@@ -78,7 +78,7 @@ except:
 # bug:
 # √ 保存特殊符号为咒语时记得去掉$，否则容易重复，记得check_to_sub时候将time加上去，time可以设为Var参数
 
-path="extensions/maple-from-fall-and-flower/scripts"
+path="extensions/sd_tag_edit/scripts"
 if not os.path.exists(path+"/search.json"):
     path="\\".join(__file__.split("\\")[:-1])
 maxmax=770596
@@ -880,7 +880,7 @@ masterpiece, best quality, 1 girl, (blue eyes) AND (yellow hair), (white clothes
             except:
                 print("添加联系失败，转移参数功能不起作用，请手动复制")
 
-    return [(block,"maple的tag选择器","maple_tags")]
+    return [(block,"TAG编辑","maple_tags")]
 
 # 版本更新函数
 nowben=3
